@@ -45,8 +45,8 @@ Clone the repository on your machine
 
 |**Using** | **Comand** |
 |:---:|:---:|
-|via **https**|```git clone https://github.com/eaccmk/node-app-http-docker.git``` |
-|via **ssh**|```git clone git@github.com:eaccmk/node-app-http-docker.git``` |
+|via **https**|```git clone https://github.com/R0stys1av/node-app-http-docker.git``` |
+|via **ssh**|```git clone git@github.com:R0stys1av/node-app-http-docker.git``` |
 
 ```shell
 cd node-app-http-docker
